@@ -50,29 +50,6 @@ Hangman-Game/
 ```
 
 ---
-
-## ▶️ How to Run
-
-1. Clone this repository.
-
-```bash
-git clone https://github.com/your-username/Hangman-Game.git
-```
-
-2. Navigate to the project folder.
-
-```bash
-cd Hangman-Game
-```
-
-3. Run the program.
-
-```bash
-python hangman.py
-```
-
----
-
 ## 💻 Sample Output
 
 ```text
